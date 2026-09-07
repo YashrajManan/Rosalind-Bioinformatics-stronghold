@@ -9,7 +9,7 @@ Each solved problem has two files:
 - `problemNsolution.py` — the Python script that solves it
 - `problemNdata.txt` — the sample input data used to test/run that script
 
-Problems currently solved: 1–18 (see the file names for the full list).
+Problems currently solved: 1–19 (see the file names for the full list).
 
 ## Topics covered so far
 
