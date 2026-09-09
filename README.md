@@ -9,7 +9,7 @@ Each solved problem has two files:
 - `problemNsolution.py` — the Python script that solves it
 - `problemNdata.txt` — the sample input data used to test/run that script
 
-Problems currently solved: 1–19 (see the file names for the full list).
+Problems currently solved: 1–20 (see the file names for the full list).
 
 ## Topics covered so far
 
@@ -19,6 +19,7 @@ Problems currently solved: 1–19 (see the file names for the full list).
 - Building consensus sequences and profile matrices from multiple aligned strings
 - Basic combinatorics/probability problems (e.g. counting mRNA strings from a protein, codon counting)
 - FASTA-format parsing (reading multi-sequence files with `>` headers)
+- Essentials of DSA: array, string, sets, hashmap, sliding windows, recursion, dynamic programming, combinatorics, greedy etc.
 
 ## How to run a solution
 
